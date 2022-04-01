@@ -1,0 +1,11 @@
+{
+    "BotToken": "OTU4MzUzNzI2MjYxODU0MzI4.YkMGdQ.6eRIPXyTKJsUqwoxN9zqhWt4bT4",
+    "guild_id": 959116879740416040,
+    "verify_role_id": 959185920937050162,
+    "MySQL": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "auth"
+    }
+}
