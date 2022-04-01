@@ -54,8 +54,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<img src="images/website.png" height="520">
+<img src="images/terminal.png" height="520">
+<img src="images/discord.png" height="520">
   
 A Simple Auth API with Discord interactions and verification system. Create your own databases and have an overview of your user data
 
