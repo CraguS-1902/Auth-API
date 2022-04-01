@@ -58,7 +58,9 @@
 <img src="images/terminal.png" height="520">
 <img src="images/discord.png" height="520">
   
-A Simple Auth API with Discord interactions and verification system. Create your own databases and have an overview of your user data
+A Simple Auth API with Discord interactions and verification system. Create your own databases and have an overview of your user data.
+
+Featurs like Auto Server Join, Verify System, Database, reset/set key command
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
