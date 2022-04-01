@@ -60,10 +60,6 @@
   
 A Simple Auth API with Discord interactions and verification system. Create your own databases and have an overview of your user data
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You have an overview of your user data
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -80,7 +76,6 @@ Here's why:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * pip
   ```sh
   pip install -r requirements.txt
